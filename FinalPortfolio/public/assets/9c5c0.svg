@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="238.181" height="101.701" viewBox="0 0 238.181 101.701" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Vector" d="M0 0C15.8789 25.4253 31.7573 50.8506 47.6362 50.8506C63.5151 50.8506 79.3935 2.82503 95.2724 2.82503C111.151 2.82503 127.03 35.0304 142.909 45.2005C158.787 55.3706 174.666 62.1507 190.545 62.1507C206.424 62.1507 222.302 61.0207 238.181 59.8907V101.701C222.302 101.701 206.424 101.701 190.545 101.701C174.666 101.701 158.787 101.701 142.909 101.701C127.03 101.701 111.151 101.701 95.2724 101.701C79.3935 101.701 63.5151 101.701 47.6362 101.701C31.7573 101.701 15.8789 101.701 0 101.701V0Z" fill="url(#paint0_linear_0_826)" fill-opacity="0.6"/>
+<defs>
+<linearGradient id="paint0_linear_0_826" x1="0" y1="0" x2="0" y2="101.701" gradientUnits="userSpaceOnUse">
+<stop offset="0.05" stop-color="#34C759" stop-opacity="0.3"/>
+<stop offset="0.95" stop-color="#34C759" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

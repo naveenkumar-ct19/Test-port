@@ -1,0 +1,24 @@
+{
+  "fonts": [
+    { "family": "Borsok", "style": "Regular", "fontId": "/Users/kavipriyathirumurugan/Library/Fonts/boorsok.otf", "source": "LOCAL" },
+    { "family": "Dream Kudos", "style": "Regular", "fontId": "/Users/kavipriyathirumurugan/Library/Fonts/dreamkudos-personal-use-only_fontlot92cb.ttf", "source": "LOCAL" },
+    { "family": "Madimi One", "style": "Regular", "fontId": "MadimiOne-Regular_1", "source": "GOOGLE" },
+    { "family": "Hi Melody", "style": "Regular", "fontId": "HiMelody-Regular_1", "source": "GOOGLE" },
+    { "family": "Space Mono", "style": "Bold", "fontId": "SpaceMono-Bold_2", "source": "GOOGLE" },
+    { "family": "Inter", "style": "Regular", "fontId": "Inter_1", "source": "GOOGLE" },
+    { "family": "Segoe Pro Display", "style": "Bold" },
+    { "family": "Segoe Pro Display", "style": "Semibold" },
+    { "family": "Segoe Pro Display", "style": "Regular" },
+    { "family": "Open Sans", "style": "SemiBold", "fontId": "OpenSans_wdth_wght__2", "source": "GOOGLE" },
+    { "family": "Lato", "style": "Regular", "fontId": "Lato-Regular_1", "source": "GOOGLE" },
+    { "family": "Space Grotesk", "style": "Bold", "fontId": "SpaceGrotesk_wght__1", "source": "GOOGLE" },
+    { "family": "ITF Devanagari Marathi", "style": "Book", "fontId": "/System/Library/Fonts/Supplemental/ITFDevanagari.ttc", "source": "LOCAL" },
+    { "family": "Open Sans", "style": "Regular", "fontId": "OpenSans_wdth_wght__2", "source": "GOOGLE" },
+    { "family": "Open Sans", "style": "Bold", "fontId": "OpenSans_wdth_wght__2", "source": "GOOGLE" },
+    { "family": "Noto Sans", "style": "Medium", "fontId": "NotoSans-VF_3", "source": "GOOGLE" },
+    { "family": "Noto Sans", "style": "Display Medium", "fontId": "NotoSans-VF_3", "source": "GOOGLE" },
+    { "family": "Archivo", "style": "Bold", "fontId": "Archivo_wdth_wght__1", "source": "GOOGLE" },
+    { "family": "Archivo", "style": "Italic", "fontId": "Archivo-Italic_wdth_wght__1", "source": "GOOGLE" },
+    { "family": "Archivo", "style": "Regular", "fontId": "Archivo_wdth_wght__1", "source": "GOOGLE" }
+  ]
+}

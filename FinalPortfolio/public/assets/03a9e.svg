@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="28.607" height="28.607" viewBox="0 0 28.607 28.607" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="iconamoon:heart-fill">
+<rect width="28.607" height="28.607" rx="14.3035" fill="url(#paint0_linear_0_712)"/>
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M8.12875 9.03415C8.93243 8.23029 9.99687 7.74001 11.1301 7.65171C12.2634 7.56342 13.391 7.88292 14.3094 8.5526C15.2799 7.85048 16.479 7.53921 17.6684 7.68067C18.8578 7.82213 19.9505 8.40596 20.7292 9.3161C21.5079 10.2262 21.9156 11.3961 21.8713 12.5931C21.827 13.79 21.334 14.9265 20.4901 15.7767L15.9949 20.2719C15.5478 20.7188 14.9416 20.9699 14.3094 20.9699C13.6773 20.9699 13.0711 20.7188 12.624 20.2719L8.12875 15.7775C7.23468 14.8833 6.7324 13.6707 6.7324 12.4062C6.7324 11.1417 7.23468 9.92829 8.12875 9.03415Z" fill="white"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_712" x1="1.18558e-06" y1="-0.0755692" x2="28.607" y2="28.5314" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4A979F"/>
+<stop offset="1" stop-color="#48E4F4"/>
+</linearGradient>
+</defs>
+</svg>

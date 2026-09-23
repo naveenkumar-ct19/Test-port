@@ -1,0 +1,11 @@
+{
+  "title": "kavipriya",
+  "description": "Enables users to interact with a precise React-based interface that replicates a specified design, enhancing user experience with seamless functionality.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

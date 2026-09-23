@@ -1,0 +1,20 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="1468.31" height="269" viewBox="0 0 1468.31 269" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Water">
+<path id="Vector" d="M9.71124 0V250.763C9.71124 260.641 3.61115 269 9.71119 269H1461.94C1467.61 269 1459.78 260.641 1459.78 250.763V0H9.71124Z" fill="url(#paint0_linear_0_1012)"/>
+<path id="Vector_2" d="M9.31401 35.5131L569.305 40.3887L9.31611 51.3588" fill="#74C8F4"/>
+<path id="Vector_3" d="M9.00005 224.273L568.991 229.149L9.00215 240.119" fill="#74C8F4"/>
+<path id="Vector_4" d="M1459.93 43.4366L725.615 35.5138L1459.93 62.3683" fill="#74C8F4"/>
+<path id="Vector_5" d="M1468.31 205.36L734 197.437L1468.31 224.292" fill="#74C8F4"/>
+<path id="Vector_6" d="M192.481 78.8567L691.475 71.369L1170.55 84.2049L689.763 81.3302L192.481 78.8567Z" fill="#74C8F4"/>
+<path id="Vector_7" d="M3.83957e-05 172.804L494.5 176.103L978.071 167.456L494.5 160.129L3.83957e-05 172.804Z" fill="#74C8F4"/>
+<path id="Vector_8" d="M9.3145 103.754V111.068H303.719L9.3145 103.754Z" fill="#74C8F4"/>
+<path id="Vector_9" d="M1459.89 94.006L1054.62 104.976H1459.89" fill="#74C8F4"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1012" x1="730.87" y1="-155.777" x2="730.87" y2="604.11" gradientUnits="userSpaceOnUse">
+<stop stop-color="#49A9DA"/>
+<stop offset="0.54" stop-color="#5EBFF2"/>
+<stop offset="1" stop-color="#3176B7"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,301 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&family=Noto+Sans+Display:wght@600&display=swap');
+@import 'tailwindcss';
+
+@font-face {
+  font-family: "Borsok:Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/Borsok-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Dream Kudos:Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/Dream_Kudos-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Madimi One:Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://static.figma.com/font/MadimiOne-Regular_1") format("woff2");
+}
+
+@font-face {
+  font-family: "Hi Melody:Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://static.figma.com/font/HiMelody-Regular_1") format("woff2");
+}
+
+@font-face {
+  font-family: "Space Mono:Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://static.figma.com/font/SpaceMono-Bold_2") format("woff2");
+}
+
+@font-face {
+  font-family: "Inter:Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://static.figma.com/font/Inter_1") format("woff2");
+}
+
+@font-face {
+  font-family: "Open Sans:SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://static.figma.com/font/OpenSans_wdth_wght__2") format("woff2");
+}
+
+@font-face {
+  font-family: "Lato:Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://static.figma.com/font/Lato-Regular_1") format("woff2");
+}
+
+@font-face {
+  font-family: "Space Grotesk:Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://static.figma.com/font/SpaceGrotesk_wght__1") format("woff2");
+}
+
+@font-face {
+  font-family: "Open Sans:Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://static.figma.com/font/OpenSans_wdth_wght__2") format("woff2");
+}
+
+@font-face {
+  font-family: "Open Sans:Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://static.figma.com/font/OpenSans_wdth_wght__2") format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans:Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://static.figma.com/font/NotoSans-VF_3") format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans:Display Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://static.figma.com/font/NotoSans-VF_3") format("woff2");
+}
+
+@font-face {
+  font-family: "Archivo:Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://static.figma.com/font/Archivo_wdth_wght__1") format("woff2");
+}
+
+@font-face {
+  font-family: "Archivo:Italic";
+  font-style: italic;
+  font-weight: 400;
+  src: url("https://static.figma.com/font/Archivo-Italic_wdth_wght__1") format("woff2");
+}
+
+@font-face {
+  font-family: "Archivo:Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://static.figma.com/font/Archivo_wdth_wght__1") format("woff2");
+}
+
+@font-face {
+  font-family: "Archivo:SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://static.figma.com/font/Archivo_wdth_wght__1") format("woff2");
+}
+
+@font-face {
+  font-family: "Mona Sans:Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://static.figma.com/font/MonaSans_wdth_wght__1") format("woff2");
+}
+
+@font-face {
+  font-family: "Space Mono:Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/spacemono/v13/i7dPIFZifjKcF5UAWdDRUEZ2RFq7AwU.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Inter:Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://static.figma.com/font/Inter_1") format("woff2");
+}
+
+@font-face {
+  font-family: "Inter:Semi Bold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://static.figma.com/font/Inter_1") format("woff2");
+}
+
+@font-face {
+  font-family: "Inter:Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://static.figma.com/font/Inter_1") format("woff2");
+}
+
+@font-face {
+  font-family: "Lato:Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://static.figma.com/font/Lato-Bold_1") format("woff2");
+}
+
+@font-face {
+  font-family: "Lato:SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://static.figma.com/font/Lato-Regular_1") format("woff2");
+}
+
+@font-face {
+  font-family: "Mona Sans:Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://static.figma.com/font/MonaSans_wdth_wght__1") format("woff2");
+}
+
+@font-face {
+  font-family: "Mona Sans:SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://static.figma.com/font/MonaSans_wdth_wght__1") format("woff2");
+}
+
+@font-face {
+  font-family: "Space Grotesk:Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://static.figma.com/font/SpaceGrotesk_wght__1") format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans:Display SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://fonts.gstatic.com/s/notosansdisplay/v26/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxpMkXo-uNg.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+html,
+body {
+  overflow-anchor: none;
+}
+
+body.case-study-1 {
+  background-color: rgb(240, 243, 255);
+}
+
+body.about-me-page {
+  background-color: #044987;
+}
+
+#root {
+  overflow-x: clip;
+}
+
+@keyframes tools-marquee {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+@keyframes cloud-float {
+  from { transform: translateX(0px); }
+  to   { transform: translateX(55px); }
+}
+
+@keyframes bird-soar {
+  0%   { transform: translate(0px, 0px); }
+  25%  { transform: translate(18px, -6px); }
+  50%  { transform: translate(36px, 0px); }
+  75%  { transform: translate(18px, 5px); }
+  100% { transform: translate(0px, 0px); }
+}
+
+@keyframes bird-soar-alt {
+  0%   { transform: translate(0px, 0px); }
+  30%  { transform: translate(-14px, -8px); }
+  60%  { transform: translate(10px, -3px); }
+  80%  { transform: translate(22px, 4px); }
+  100% { transform: translate(0px, 0px); }
+}
+
+@keyframes bubble-float {
+  0%   { transform: translateY(0px) scale(1); opacity: 0.8; }
+  33%  { transform: translateY(-10px) scale(1.12); opacity: 1; }
+  66%  { transform: translateY(-5px) scale(0.95); opacity: 0.9; }
+  100% { transform: translateY(0px) scale(1); opacity: 0.8; }
+}
+
+@keyframes creature-float {
+  0%   { transform: translateY(0px) rotate(-2deg); }
+  40%  { transform: translateY(-14px) rotate(2deg); }
+  70%  { transform: translateY(-6px) rotate(-1deg); }
+  100% { transform: translateY(0px) rotate(-2deg); }
+}
+
+@keyframes creature-wobble {
+  0%   { transform: rotate(0deg) scale(1); }
+  20%  { transform: rotate(-8deg) scale(1.06); }
+  45%  { transform: rotate(6deg) scale(0.97); }
+  65%  { transform: rotate(-4deg) scale(1.03); }
+  80%  { transform: rotate(2deg) scale(1); }
+  100% { transform: rotate(0deg) scale(1); }
+}
+
+@keyframes interests-marquee {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+.skill-card-hover {
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.3s ease;
+}
+.skill-card-hover:hover {
+  transform: translateY(-10px) scale(1.04);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
+}
+
+@keyframes penguin-dive {
+  0%   { transform: translateX(-400px) translateY(0px) rotate(0deg); opacity: 0; }
+  8%   { opacity: 1; }
+  40%  { transform: translateX(30vw) translateY(70px) rotate(18deg); opacity: 1; }
+  65%  { transform: translateX(60vw) translateY(190px) rotate(28deg); opacity: 1; }
+  88%  { transform: translateX(90vw) translateY(90px) rotate(10deg); opacity: 1; }
+  100% { transform: translateX(110vw) translateY(70px) rotate(8deg); opacity: 1; }
+}
+
+.penguin-dive-anim {
+  animation: penguin-dive 7s ease-in-out infinite;
+}
+
+.hero-stamp-hover {
+  transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+  transform-origin: center center;
+}
+.hero-stamp-hover:hover {
+  transform: rotate(-12deg) scale(1.06);
+}
+
