@@ -252,16 +252,16 @@ export default function AboutMe() {
             </div>
           </div>
           <div className="content-stretch flex gap-[24px] items-center relative shrink-0" data-node-id="2054:187">
-            <div className="bg-[#fcc6db] content-stretch drop-shadow-[2px_4px_3px_rgba(0,0,0,0.1)] flex items-center justify-center px-[16px] py-[5px] relative rounded-[34px] shrink-0" data-node-id="2054:188" style={{ cursor: "pointer" }}>
+            <a className="bg-[#fcc6db] content-stretch drop-shadow-[2px_4px_3px_rgba(0,0,0,0.1)] flex items-center justify-center px-[16px] py-[5px] relative rounded-[34px] shrink-0" data-node-id="2054:188" href="https://www.linkedin.com/in/kavipriyathirumurugan" target="_blank" rel="noreferrer">
               <p className="[word-break:break-word] font-['Space_Mono:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3347ae] text-[14px] whitespace-nowrap" data-node-id="2054:189">Linkedin</p>
-            </div>
-            <div className="bg-[#fcc6db] content-stretch drop-shadow-[2px_4px_3px_rgba(0,0,0,0.1)] flex items-center justify-center px-[16px] py-[5px] relative rounded-[34px] shrink-0" data-node-id="2054:190" style={{ cursor: "pointer" }}>
+            </a>
+            <a className="bg-[#fcc6db] content-stretch drop-shadow-[2px_4px_3px_rgba(0,0,0,0.1)] flex items-center justify-center px-[16px] py-[5px] relative rounded-[34px] shrink-0" data-node-id="2054:190" href="https://www.behance.net/kavipriyauiux" target="_blank" rel="noreferrer">
               <p className="[word-break:break-word] font-['Space_Mono:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3347ae] text-[14px] whitespace-nowrap" data-node-id="2054:191">Behance</p>
-            </div>
+            </a>
           </div>
-          <div className="bg-[rgba(0,0,0,0.5)] content-stretch flex items-center justify-center px-[14px] py-[4px] relative rounded-[999px] shrink-0" data-node-id="2054:192" style={{ cursor: "pointer" }}>
+          <a className="bg-[rgba(0,0,0,0.5)] content-stretch flex items-center justify-center px-[14px] py-[4px] relative rounded-[999px] shrink-0" data-node-id="2054:192" href="mailto:uxbykavipriya@gmail.com">
             <p className="[word-break:break-word] font-['Space_Mono:Bold'] leading-[normal] not-italic relative shrink-0 text-[14px] text-white uppercase whitespace-nowrap" data-node-id="2054:193">{"Let's Talk!"}</p>
-          </div>
+          </a>
         </div>
     </div>
   );
